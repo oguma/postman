@@ -1,5 +1,7 @@
 # Postman
 
+Your private message box.
+
 ## Installation
 
 1. Upload all files into postman directory on your hosting service via FTP client.
